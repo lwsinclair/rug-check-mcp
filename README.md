@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kukapay-rug-check-mcp-badge.png)](https://mseep.ai/app/kukapay-rug-check-mcp)
+
 # Rug-Check-MCP
 
 An MCP server that detects potential risks in Solana meme tokens, helping AI agents avoid rug pulls and unsafe projects.
